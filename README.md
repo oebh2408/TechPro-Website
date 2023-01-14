@@ -13,5 +13,5 @@
 
 > Animaciones
 
-https://user-images.githubusercontent.com/84407019/212456805-0898df6e-5f77-4305-8a04-635115e3bb84.mp4
+ ![VID_20230113_235239_AdobeExpress](https://user-images.githubusercontent.com/84407019/212484635-39beb39f-c7c8-47d6-83c9-63507ac874eb.gif)
 
