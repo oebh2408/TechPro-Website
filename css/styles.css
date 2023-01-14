@@ -265,6 +265,7 @@ img {
 
 .modelos {
     padding: var(--separacion) 0;
+    margin-bottom: var(--separacion);
 }
 
 .header-modelos {
